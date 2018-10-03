@@ -1,0 +1,10 @@
+<keymap version="1" name="ES_ANDROID_KM" parent="Mac OS X 10.5+">
+  <action id="EditorToggleCase" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+</keymap>
