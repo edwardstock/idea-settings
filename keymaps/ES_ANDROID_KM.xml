@@ -6,5 +6,9 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="JumpToLastChange" />
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
