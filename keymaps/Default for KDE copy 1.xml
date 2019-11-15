@@ -1,0 +1,15 @@
+<keymap version="1" name="Default for KDE copy 1" parent="Default for KDE">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>
