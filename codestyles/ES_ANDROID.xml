@@ -1,5 +1,7 @@
 <code_scheme name="ES_ANDROID" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="120" />
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="IMPORT_LAYOUT_TABLE">
