@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
