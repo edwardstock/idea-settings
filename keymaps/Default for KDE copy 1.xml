@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for KDE copy 1" parent="Default for KDE">
+  <action id="ActivateProjectToolWindow" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -20,6 +21,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
