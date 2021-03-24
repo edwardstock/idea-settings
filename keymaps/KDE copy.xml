@@ -1,0 +1,5 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+</keymap>
