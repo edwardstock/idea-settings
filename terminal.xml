@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/bash" />
+    <option name="myShellPath" value="C:\Users\edwar\AppData\Local\Microsoft\WindowsApps\debian.exe" />
+    <option name="myTabName" value="WSL" />
   </component>
 </application>
