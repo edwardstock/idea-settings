@@ -3,6 +3,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_address_book.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_advanced_ledger.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_convert_coin.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_delegate_unbond.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/view_wallet_selector.xml" value="0.2811550151975684" />
       </map>
     </option>
   </component>
