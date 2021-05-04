@@ -2,7 +2,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/dialog_add_wallet.xml" value="0.321875" />
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_address_book.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_advanced_ledger.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_convert_coin.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_delegate_unbond.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/view_wallet_selector.xml" value="0.2855152529581825" />
       </map>
     </option>
   </component>
