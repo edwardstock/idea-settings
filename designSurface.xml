@@ -9,7 +9,10 @@
         <entry key="app/src/main/res/layout/activity_convert_coin.xml" value="0.2811550151975684" />
         <entry key="app/src/main/res/layout/activity_delegate_unbond.xml" value="0.2811550151975684" />
         <entry key="app/src/main/res/layout/activity_validator_selector.xml" value="0.16869300911854104" />
+        <entry key="app/src/main/res/layout/dialog_share_address.xml" value="0.2848731884057971" />
         <entry key="app/src/main/res/layout/fragment_exchange_sell.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/fragment_tab_send.xml" value="0.2848731884057971" />
+        <entry key="app/src/main/res/layout/fragment_tab_wallets.xml" value="0.2848731884057971" />
         <entry key="app/src/main/res/layout/view_wallet_selector.xml" value="0.2855152529581825" />
       </map>
     </option>
