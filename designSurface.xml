@@ -30,6 +30,13 @@
         <entry key="app/src/main/res/drawable/ic_warning_yellow.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/img_avatar_lp_token.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/shape_black_full_vignette.xml" value="0.5841025641025641" />
+        <entry key="app/src/main/res/drawable/shape_black_half_vignette_round.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_black_half_vignette_top_bot.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_black_vignette.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_bottom_padded_separator.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_circle_primary_light.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_dash_line.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/shape_rounded_grey.xml" value="0.3619791666666667" />
         <entry key="app/src/main/res/layout/activity_address_book.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_advanced_ledger.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.2966485507246377" />
@@ -59,13 +66,18 @@
         <entry key="app/src/main/res/layout/item_list_address_book.xml" value="0.5031267373972951" />
         <entry key="app/src/main/res/layout/item_list_settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_list_settings_header.xml" value="0.2966485507246377" />
-        <entry key="app/src/main/res/layout/search_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_item_switch_settings.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/row_list_with_button.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/row_settings_avatar.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/search_item.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/search_list_with_progress.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_error_static_popup.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_pincode_kbd.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_wallet_selector.xml" value="0.2855152529581825" />
         <entry key="app/src/main/res/menu/menu_address_manage.xml" value="0.346875" />
         <entry key="app/src/main/res/menu/menu_secured_select.xml" value="0.346875" />
         <entry key="app/src/main/res/menu/menu_send_toolbar.xml" value="0.346875" />
+        <entry key="app/src/main/res/menu/menu_tab_scan_tx_light.xml" value="0.346875" />
         <entry key="app/src/netMainLocal/res/drawable/ic_launcher_foreground.xml" value="0.5841025641025641" />
         <entry key="app/src/netTestLocal/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3619791666666667" />
       </map>
