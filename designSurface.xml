@@ -3,9 +3,30 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_chip.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/bg_chip_active.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_image_round_shadow.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_input_disabled.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_rect_a.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_rect_combined.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/bg_rounder_top_primary.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/bg_white_rounded.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/btn_backspace.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_add_white.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_backspace_white.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_backspace_white_compat.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_exchange_separator.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_fingerprint_white_compat.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_logout.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_logout_compat.xml" value="0.46197916666666666" />
         <entry key="app/src/main/res/drawable/ic_logout_grey.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/ic_lp_token.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/ic_lp_token_bg.xml" value="0.5841025641025641" />
+        <entry key="app/src/main/res/drawable/ic_menu_receive.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_qr_grey.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_text_arrow_right.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_visibility_grey.xml" value="0.3619791666666667" />
         <entry key="app/src/main/res/drawable/ic_warning_yellow.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/img_avatar_lp_token.xml" value="0.5841025641025641" />
         <entry key="app/src/main/res/drawable/shape_black_full_vignette.xml" value="0.5841025641025641" />
@@ -24,18 +45,27 @@
         <entry key="app/src/main/res/layout/dialog_addresscontact_edit.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/dialog_input.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/dialog_share_address.xml" value="0.2848731884057971" />
+        <entry key="app/src/main/res/layout/dialog_sheet_top.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/dialog_signin_wallet.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/dialog_tx_convert_start.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/dialog_tx_send_complete.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/fragment_exchange_buy.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/fragment_exchange_sell.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/fragment_story.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/fragment_tab_receive.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/fragment_tab_send.xml" value="0.2848731884057971" />
         <entry key="app/src/main/res/layout/fragment_tab_wallets.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/inc_dialog_input_prefix.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/item_list_address_book.xml" value="0.5031267373972951" />
         <entry key="app/src/main/res/layout/item_list_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_list_settings_header.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/search_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_error_static_popup.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_pincode_kbd.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_wallet_selector.xml" value="0.2855152529581825" />
+        <entry key="app/src/main/res/menu/menu_address_manage.xml" value="0.346875" />
+        <entry key="app/src/main/res/menu/menu_secured_select.xml" value="0.346875" />
+        <entry key="app/src/main/res/menu/menu_send_toolbar.xml" value="0.346875" />
         <entry key="app/src/netMainLocal/res/drawable/ic_launcher_foreground.xml" value="0.5841025641025641" />
         <entry key="app/src/netTestLocal/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3619791666666667" />
       </map>
