@@ -1,15 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="conf" type="Doxygen file" />
-      <mapping ext="webp" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
