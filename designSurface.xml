@@ -50,7 +50,7 @@
         <entry key="app/src/main/res/layout/activity_delegation_list.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_external_transaction.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.2966485507246377" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2811550151975684" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.5692307692307692" />
         <entry key="app/src/main/res/layout/activity_password_change_migration.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_pin.xml" value="0.2966485507246377" />
@@ -68,6 +68,8 @@
         <entry key="app/src/main/res/layout/fragment_tab_receive.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/fragment_tab_send.xml" value="0.2848731884057971" />
         <entry key="app/src/main/res/layout/fragment_tab_wallets.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/inc_anim_text_off.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/inc_anim_text_on.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/inc_dialog_input_prefix.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/item_list_address_book.xml" value="0.5031267373972951" />
         <entry key="app/src/main/res/layout/item_list_settings.xml" value="0.1" />
