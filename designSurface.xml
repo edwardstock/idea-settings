@@ -2,8 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.3734375" />
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.6046875" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.5953846153846154" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.6648148148148149" />
         <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/dialog_add_wallet.xml" value="0.2631712259371834" />
         <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/item_list_address_book.xml" value="0.33" />
@@ -90,6 +90,13 @@
         <entry key="app/src/main/res/menu/menu_tab_scan_tx_light.xml" value="0.346875" />
         <entry key="app/src/netMainLocal/res/drawable/ic_launcher_foreground.xml" value="0.5841025641025641" />
         <entry key="app/src/netTestLocal/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3619791666666667" />
+        <entry key="multipicker/src/main/res/drawable-anydpi-v21/mp_ic_add.xml" value="0.5841025641025641" />
+        <entry key="multipicker/src/main/res/layout/mp_activity_picker.xml" value="0.346875" />
+        <entry key="multipicker/src/main/res/layout/mp_fragment_filesystem.xml" value="0.346875" />
+        <entry key="multipicker/src/main/res/layout/mp_fragment_image_viewer.xml" value="0.346875" />
+        <entry key="multipicker/src/main/res/layout/mp_inc_item_send_or_add.xml" value="0.346875" />
+        <entry key="multipicker/src/main/res/layout/mp_item_folder.xml" value="0.5692307692307692" />
+        <entry key="multipicker/src/main/res/layout/mp_item_image.xml" value="0.346875" />
       </map>
     </option>
   </component>
