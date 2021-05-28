@@ -45,6 +45,7 @@
         <entry key="app/src/main/res/layout/activity_address_book.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_advanced_ledger.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.2966485507246377" />
+        <entry key="app/src/main/res/layout/activity_complete_report.xml" value="0.5692307692307692" />
         <entry key="app/src/main/res/layout/activity_convert_coin.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_delegate_unbond.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/activity_delegation_list.xml" value="0.2966485507246377" />
