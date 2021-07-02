@@ -5,11 +5,16 @@
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.6648148148148149" />
-        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/btn_transparent_blue_border.xml" value="0.4203703703703704" />
-        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/btn_white.xml" value="0.4203703703703704" />
-        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/activity_home.xml" value="0.2631712259371834" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/bg_edittext_active.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/bg_edittext_disabled.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/bg_edittext_inactive.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/bg_edittext_states.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/btn_transparent_blue_border.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/drawable/btn_white.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/activity_home.xml" value="0.5197916666666667" />
         <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/dialog_add_wallet.xml" value="0.2631712259371834" />
-        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/fragment_tab_wallets.xml" value="0.2631712259371834" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/fragment_tab_send.xml" value="0.5197916666666667" />
+        <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/fragment_tab_wallets.xml" value="0.309375" />
         <entry key="..\:/Users/edwar/projects/projects/android/Minter/minter-android-wallet/app/src/main/res/layout/item_list_address_book.xml" value="0.33" />
         <entry key="..\:/Users/edwar/projects/projects/android/advanced-input-field/inputfield/src/main/res/layout/aif_input_field.xml" value="0.5" />
         <entry key="..\:/Users/edwar/projects/projects/android/advanced-input-field/sample/src/main/res/layout/activity_extras.xml" value="0.5117948717948718" />
