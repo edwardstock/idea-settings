@@ -102,6 +102,7 @@
         <entry key="app/src/main/res/layout/search_list_with_progress.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/tx_details_create_coin.xml" value="0.32489713046104657" />
         <entry key="app/src/main/res/layout/tx_details_create_token.xml" value="0.41700897961042216" />
+        <entry key="app/src/main/res/layout/tx_details_pool.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/tx_details_set_candidate_on_off.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_error_static_popup.xml" value="0.2966485507246377" />
         <entry key="app/src/main/res/layout/view_pincode_kbd.xml" value="0.2966485507246377" />
